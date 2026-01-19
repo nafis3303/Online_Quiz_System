@@ -1,0 +1,47 @@
+.select-quiz-form {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.select-quiz-form select {
+    padding: 8px 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    margin-left: 8px;
+}
+
+.table-wrap {
+    margin-top: 10px;
+    overflow-x: auto;
+}
+
+.results-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #fff;
+}
+
+.results-table th,
+.results-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+.results-table th {
+    background: #f2f2f2;
+}
+
+.back-btn {
+    display: inline-block;
+    margin-top: 12px;
+    padding: 10px 16px;
+    background: #777;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+.back-btn:hover {
+    background: #555;
+}
